@@ -19,7 +19,7 @@ can omit the `eslint-plugin-` prefix:
 
 ```json
 {
-  "plugins": ["jest"]
+  "plugins": ["no-bigint-usage"]
 }
 ```
 
