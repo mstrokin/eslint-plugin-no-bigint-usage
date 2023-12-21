@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-no-bigint-usage",
   "version": "1.0.0",
-  "description": "Simple eslint plugin to disallow the use of bigint usage that might break on older JS engines",
+  "description": "Simple eslint plugin to disallow the use of bigint literals (that might break on older JS engines)",
   "main": "index.js",
   "keywords": [],
   "author": "",
